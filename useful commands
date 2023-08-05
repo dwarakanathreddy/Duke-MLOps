@@ -1,3 +1,7 @@
 # create venv
 
 python -m venv venv
+
+pip install pytest
+
+pytest [-vv] test_examples
