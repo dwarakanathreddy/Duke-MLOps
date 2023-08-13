@@ -6,3 +6,4 @@
 This repo contains the program files created as part of MLOps course.
 
 [minimal python book](https://paiml.com/docs/home/books/minimal-python)
+
