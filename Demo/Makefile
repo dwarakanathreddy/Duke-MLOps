@@ -5,3 +5,4 @@ two:
 	touch demo2.txt
 
 all: one two
+
